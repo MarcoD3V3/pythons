@@ -1,0 +1,97 @@
+Nombre,Apellido,Edad,DNI,Nacionalidad,Email,Diagnostico
+Nita,Elo,43,27614103,Uruguayo,undefined.undefined@gmail.com,Depresión clínica
+Verla,Agle,28,54363168,Guyanés,undefined.undefined@gmail.com,Enfermedad de Alzheimer
+Jaclyn,Hamil,15,60859703,Venezolano,undefined.undefined@gmail.com,Hipertiroidismo
+Priscilla,Jorgan,46,93851423,Venezolano,undefined.undefined@gmail.com,Hipotiroidismo
+Annabela,Lutero,50,81254090,Colombiano,undefined.undefined@gmail.com,Colitis ulcerosa
+Fina,Hilbert,22,49814973,Ecuatoriano,undefined.undefined@gmail.com,Anorexia nerviosa
+Adore,Alfons,53,95155117,Costarricense,undefined.undefined@gmail.com,Enfermedad de Lyme
+Jenda,Rhu,69,81287232,Beliceño,undefined.undefined@gmail.com,Fibromialgia
+Ann-Marie,Judye,35,30167122,Venezolano,undefined.undefined@gmail.com,EPOC (Enfermedad pulmonar obstructiva crónica)
+Shaine,Brotherson,51,56633695,Colombiano,undefined.undefined@gmail.com,Osteoporosis
+Ingrid,Kelula,55,43899051,Mexicano,undefined.undefined@gmail.com,Hipertensión arterial
+Gerrie,Amand,63,62276125,Boliviano,undefined.undefined@gmail.com,Síndrome de Sjögren
+Giustina,Gert,62,77904005,Peruano,undefined.undefined@gmail.com,Enfermedad de Cushing
+Deloria,Camden,38,50738128,Canadiense,undefined.undefined@gmail.com,Esquizofrenia
+Vanessa,Matthew,20,57223313,Trinitense,undefined.undefined@gmail.com,Bulimia
+Rubie,Katrine,44,47974663,Panameño,undefined.undefined@gmail.com,Enfermedad de Graves
+Katuscha,Harl,32,36422801,Dominicano,undefined.undefined@gmail.com,Espondilosis cervical
+Roslyn,Louanna,21,78420150,Estadounidense,undefined.undefined@gmail.com,Síndrome de Tourette
+Roxane,Munn,22,24541670,Guyanés,undefined.undefined@gmail.com,Acné
+Helsa,Ciapas,43,64737722,Guyanés,undefined.undefined@gmail.com,Autismo
+Aili,Janene,40,18795084,Panameño,undefined.undefined@gmail.com,Enfermedad de Behçet
+Christy,Goerke,42,69524247,Panameño,undefined.undefined@gmail.com,Bulimia
+Dari,Elisha,30,53453192,Canadiense,undefined.undefined@gmail.com,Atrofia muscular espinal (AME)
+Renie,Marcellus,35,44917790,Brasileño,undefined.undefined@gmail.com,Síndrome de Lynch
+Viki,Lenny,57,90656881,Estadounidense,undefined.undefined@gmail.com,Cáncer de pulmón
+Marjie,Odysseus,29,34196100,Paraguayo,undefined.undefined@gmail.com,Trastorno de ansiedad generalizada
+Sindee,Laurianne,15,27108433,Guatemalteco,undefined.undefined@gmail.com,Enfermedad de von Willebrand
+Aili,Hewitt,15,26042271,Puertorriqueño,undefined.undefined@gmail.com,Síndrome de Marfan
+Melina,Faria,28,23729214,Jamaicano,undefined.undefined@gmail.com,Espondilitis anquilosante
+Ingrid,Larochelle,19,54834627,Ecuatoriano,undefined.undefined@gmail.com,Parkinson
+Lilith,Eno,55,72754232,Costarricense,undefined.undefined@gmail.com,Osteoporosis
+Lucy,Tremayne,41,98610084,Ecuatoriano,undefined.undefined@gmail.com,Hipertiroidismo
+Shell,Helve,54,35301741,Nicaragüense,undefined.undefined@gmail.com,Espondilitis anquilosante
+Odessa,Toffic,58,72556375,Hondureño,undefined.undefined@gmail.com,Síndrome de Dandy-Walker
+Kellen,Yate,22,46966187,Jamaicano,undefined.undefined@gmail.com,Adenoiditis
+Flory,Arvo,48,47107544,Colombiano,undefined.undefined@gmail.com,Adenoiditis
+Anestassia,Nadia,12,56237015,Cubano,undefined.undefined@gmail.com,Síndrome de Prader-Willi
+Caryl,Curren,60,18721206,Paraguayo,undefined.undefined@gmail.com,Parkinson
+Tressa,Phaidra,11,95842274,Ecuatoriano,undefined.undefined@gmail.com,Celulitis
+Nannie,Shanley,31,69503382,Guatemalteco,undefined.undefined@gmail.com,Dermatitis atópica
+Shannah,Evangelia,60,78034708,Guyanés,undefined.undefined@gmail.com,Dermatitis atópica
+Aurore,Jary,50,97305522,Colombiano,undefined.undefined@gmail.com,Fibromialgia
+Daune,Lumbard,21,14481493,Haitiano,undefined.undefined@gmail.com,Rinitis alérgica
+Nanete,Saree,14,50304335,Salvadoreño,undefined.undefined@gmail.com,Artritis reumatoide
+Rori,Docilla,53,93232181,Paraguayo,undefined.undefined@gmail.com,Dengue
+Kenna,Ilka,43,38080679,Puertorriqueño,undefined.undefined@gmail.com,Púrpura trombocitopénica idiopática (PTI)
+Evaleen,Richers,17,66606306,Cubano,undefined.undefined@gmail.com,Hipotiroidismo
+Marika,Liebermann,45,64008835,Beliceño,undefined.undefined@gmail.com,Síndrome de Asperger
+Lorne,Zamora,64,15591861,Argentino,undefined.undefined@gmail.com,Síndrome de Lynch
+Giustina,Trinetta,50,82486879,Estadounidense,undefined.undefined@gmail.com,Enfermedad de Whipple
+Paulita,Tillford,66,35622310,Brasileño,undefined.undefined@gmail.com,Endometriosis
+Elvira,Rosemary,41,40501013,Beliceño,undefined.undefined@gmail.com,Síndrome de Ramsay Hunt
+Sabina,Anis,16,46950113,Canadiense,undefined.undefined@gmail.com,Enfermedad celíaca
+Marika,Swanhildas,46,96601423,Salvadoreño,undefined.undefined@gmail.com,Dengue
+Ellette,Bendick,16,45250802,Puertorriqueño,undefined.undefined@gmail.com,Púrpura trombocitopénica idiopática (PTI)
+Nickie,Neva,16,70956958,Hondureño,undefined.undefined@gmail.com,Psoriasis
+Barbi,Rocray,10,91019878,Hondureño,undefined.undefined@gmail.com,Enfermedad de Wilson
+Goldie,Brandice,42,74636393,Costarricense,undefined.undefined@gmail.com,Pancreatitis
+Celestyna,Odell,11,87111504,Mexicano,undefined.undefined@gmail.com,Enfermedad celíaca
+Tressa,Shaddock,61,94002450,Guyanés,undefined.undefined@gmail.com,Esclerosis múltiple
+Nerta,Thornburg,52,68956229,Venezolano,undefined.undefined@gmail.com,Vitiligo
+Penelopa,Creamer,13,29192466,Trinitense,undefined.undefined@gmail.com,Dermatitis atópica
+Dorthy,Ogren,51,90921152,Paraguayo,undefined.undefined@gmail.com,Artritis reumatoide
+Libbie,Dosia,66,38945012,Guyanés,undefined.undefined@gmail.com,Esquizofrenia
+Averyl,Afton,50,43116239,Puertorriqueño,undefined.undefined@gmail.com,VIH/SIDA
+Korrie,Catie,37,77954447,Canadiense,undefined.undefined@gmail.com,Síndrome de Edwards
+Rosanne,Argus,51,91824891,Ecuatoriano,undefined.undefined@gmail.com,Hepatitis B
+Kalina,Tybald,70,12640152,Boliviano,undefined.undefined@gmail.com,Hepatitis B
+Marcelline,Dreda,13,26782031,Panameño,undefined.undefined@gmail.com,Cáncer de riñón
+Rosene,Hoban,12,56718448,Puertorriqueño,undefined.undefined@gmail.com,Enfermedad de Alzheimer
+Shirlee,Tippets,39,80424781,Paraguayo,undefined.undefined@gmail.com,Distonía
+Fawne,Keily,53,98749102,Peruano,undefined.undefined@gmail.com,Enfermedad de Cushing
+Roz,Fosque,19,53000640,Panameño,undefined.undefined@gmail.com,Dermatitis atópica
+Alyda,Sothena,69,53911827,Peruano,undefined.undefined@gmail.com,Queratocono
+Jere,Schonfeld,12,88858202,Chileno,undefined.undefined@gmail.com,Distonía
+Cordi,Bari,66,84876207,Jamaicano,undefined.undefined@gmail.com,Síndrome de Edwards
+Riannon,Cleavland,61,55775673,Salvadoreño,undefined.undefined@gmail.com,Celulitis
+Netty,Rooney,17,89688339,Argentino,undefined.undefined@gmail.com,Talasemia
+Alameda,Girardo,19,87581723,Guyanés,undefined.undefined@gmail.com,Enfermedad de Cushing
+Laurene,Lilas,55,79037957,Peruano,undefined.undefined@gmail.com,Celiaquía
+Bertine,Hull,15,35568574,Venezolano,undefined.undefined@gmail.com,Rabia
+Joane,Ajay,54,70109986,Ecuatoriano,undefined.undefined@gmail.com,Psoriasis
+Leanna,Ummersen,12,50849508,Haitiano,undefined.undefined@gmail.com,Hipotiroidismo
+Rani,Pettiford,38,96579394,Haitiano,undefined.undefined@gmail.com,Parkinson
+Emilia,Tamsky,26,97146955,Guatemalteco,undefined.undefined@gmail.com,Colitis ulcerosa
+Neila,Zaslow,51,62319963,Hondureño,undefined.undefined@gmail.com,Enfermedad de Graves
+Debee,Kaja,17,97699003,Mexicano,undefined.undefined@gmail.com,Trastorno bipolar
+Bernie,Hubert,26,42721992,Colombiano,undefined.undefined@gmail.com,Rinitis alérgica
+Karly,Brittani,38,35409252,Brasileño,undefined.undefined@gmail.com,Hemofilia
+Kore,McGrody,43,18456272,Chileno,undefined.undefined@gmail.com,Queratocono
+Orelia,Seligman,16,65458557,Chileno,undefined.undefined@gmail.com,Cáncer de mama
+Jsandye,Waldron,10,55102528,Brasileño,undefined.undefined@gmail.com,Cáncer de próstata
+Brena,Pozzy,16,70469723,Venezolano,undefined.undefined@gmail.com,Síndrome de Dandy-Walker
+Augustine,Guildroy,52,21315989,Cubano,undefined.undefined@gmail.com,Hepatitis B
+Steffane,Karylin,49,45132373,Brasileño,undefined.undefined@gmail.com,Hemocromatosis
+Laure,Ader,19,61719673,Beliceño,undefined.undefined@gmail.com,Dermatitis atópica
